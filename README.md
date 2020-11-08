@@ -20,5 +20,4 @@ Selecting four cities in Brazil we created a travel route:
 
 To show the customers average temps, current conditions and where they would be staying we give them a map with markers:
 
-![](https://github.com/PJ427/WeatherPy)
-
+![](WeatherPy/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
