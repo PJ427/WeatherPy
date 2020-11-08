@@ -9,3 +9,10 @@ By using the weather data already retrieved let customers use input statements t
 After customers selected temp range, the following results came back:
 
 ![](WeatherPy/Vacation_Search/WeatherPy_vacation_map.PNG)
+
+##  Brazil
+
+Selecting four cities in Brazil we created a travel route:
+
+![](WeatherPy/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+
